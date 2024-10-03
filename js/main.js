@@ -22,7 +22,7 @@ $(document).ready(function(){
 Countdown Clock
 ------------------------------ */
 function makeTimer() {
-	var endTime = new Date("19 September 2024 10:45:00 GMT+01:00");			
+	var endTime = new Date("14 October 2024 10:45:00 GMT+01:00");			
 	endTime = (Date.parse(endTime) / 1000);
 
 	var now = new Date();
