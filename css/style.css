@@ -573,7 +573,7 @@ ul, ul li {
 .content-ct ul li a{
 	color: #393939;
 	font-weight: 300;
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 }
 
 
